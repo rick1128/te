@@ -7,7 +7,7 @@
 
 
 
-[![نصب الان من هنا](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rick1128/te)
+[![نصب الان من هنا](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rick1128/RICKMUSIC)
 
 __________________________
 **[RICKTHON MUSIC](https://t.me/RICKTHONM)**
