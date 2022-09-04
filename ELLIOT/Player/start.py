@@ -8,7 +8,7 @@ from config import START_PIC, UPDATES_CHANNEL, GROUP_SUPPORT
 
 
 ALIVE_PIC = START_PIC
-HOME_TEXT = "👋🏻 **مرحبا [{}](tg://user?id={})** \n\n🤖 انا **ايــثــون**. \n**استطيع تشغيل الموسيقي, والراديو, Vc Raid, وفديوهات اليوتيوب & وايضا تشغيل فديوهات التلجرام والصوت **"
+HOME_TEXT = "👋🏻 **مرحبا [{}](tg://user?id={})** \n\n🤖 انا **ريـك ثـون**. \n**استطيع تشغيل الموسيقي, والراديو, Vc Raid, وفديوهات اليوتيوب & وايضا تشغيل فديوهات التلجرام والصوت **"
 HELP_TEXT = """
 🏷️ **دليل الإعداد** :
 
@@ -28,7 +28,7 @@ USER_TEXT = """
 """
 
 SPAM_TEXT = """
-🏷️ **مساعده  @EITHON1** :
+🏷️ **مساعده  @RICKTHON** :
 
 \u2022 /spam <Count> ضع رسالة االاسبام.
 \u2022 /fspam <Count> رسالة الاسبام.
@@ -61,7 +61,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     if query.data=="help":
         buttons = [
             [
-                InlineKeyboardButton("👮 الاوامر", url="https://telegra.ph/%D8%B3%D9%88%D8%B1%D8%B3-%D8%A7%D9%8A%D8%AB%D9%88%D9%86-%D8%A7%D9%84%D8%B5%D9%88%D8%AA%D9%8A-EITHON1-06-21"),
+                InlineKeyboardButton("👮 الاوامر", url="https://telegra.ph/SOURCE-RICKTHON-09-04"),
                 InlineKeyboardButton("🗨️ الاعضاء", callback_data="users"),
             ],
             [
@@ -97,7 +97,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("🏷️ قناة السورس", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [
-                InlineKeyboardButton("🤖 ايــثــون", url="https://t.me/EITHON1"),
+                InlineKeyboardButton("🤖 ريـك ثـون", url="https://t.me/RICKTHON"),
             ],
             [
                 InlineKeyboardButton("🤔 المساعده & الاوامر", callback_data="help"),
@@ -194,7 +194,7 @@ async def start(client: Client, message: Message):
                 InlineKeyboardButton("🏷️ قناة السورس", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [
-                InlineKeyboardButton("🤖 ايــثــون", url="https://t.me/EITHON1"),
+                InlineKeyboardButton("🤖 ريـك ثـون", url="https://t.me/RICKTHON"),
             ],
             [
                 InlineKeyboardButton("🤔 المساعده & الاوامر", callback_data="help"),
@@ -209,7 +209,7 @@ async def help(client: Client, message: Message):
     self.username = get_me.username
     buttons = [
             [
-                InlineKeyboardButton("👮 الاوامر", url="https://telegra.ph/%D8%B3%D9%88%D8%B1%D8%B3-%D8%A7%D9%8A%D8%AB%D9%88%D9%86-%D8%A7%D9%84%D8%B5%D9%88%D8%AA%D9%8A-EITHON1-06-21"),
+                InlineKeyboardButton("👮 الاوامر", url="https://telegra.ph/SOURCE-RICKTHON-09-04"),
                 InlineKeyboardButton("🗨️ الاعضاء", callback_data="users"),
             ],
             [
