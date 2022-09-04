@@ -156,8 +156,8 @@ async def play(c: Client, m: Message):
                   ],[
                       InlineKeyboardButton(text="✨ جروب الدعم", url=f"https://t.me/{GROUP_SUPPORT}"),
                       InlineKeyboardButton(text="📣 قناة السورس", url=f"https://t.me/{UPDATES_CHANNEL}"),
-                     InlineKeyboardButton("سورس ايــثــون الصوتي", url=f"https://t.me/EITHMU1"),
-                     InlineKeyboardButton("سورس ايــثــون يوزربوت", url=f"https://t.me/EITHON1"),
+                     InlineKeyboardButton("سورس ريـك ثـون الصوتي", url=f"https://t.me/RICKTHONM"),
+                     InlineKeyboardButton("سورس ريـك ثـون يوزربوت", url=f"https://t.me/RICKTHON"),
                   ],[
                       InlineKeyboardButton("🗑", callback_data="cls")],
                   ]
