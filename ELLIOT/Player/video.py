@@ -25,7 +25,7 @@ from ELLIOT.Database.active import *
 from ELLIOT.Database.clientdb import *
 from ELLIOT.Client.Joiner import *
 from youtubesearchpython import VideosSearch
-IMAGE_THUMBNAIL = "https://telegra.ph/file/41b77331976a3a8eec93f.jpg"
+IMAGE_THUMBNAIL = "https://telegra.ph/file/3d4e9709614892e62a969.jpg"
 
 
 def ytsearch(query: str):
