@@ -2,8 +2,8 @@ from ELLIOT.main import bot
 from pyrogram import filters
 
 
-OWNER = 5341870430
-sudos = 5341870430
+OWNER = 5582470474
+sudos = 5582470474
 
 @bot.on_message(filters.command("info"))
 def info(_, message):
