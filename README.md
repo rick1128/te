@@ -10,7 +10,7 @@
 [![نصب الان من هنا](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rick1128/te)
 
 __________________________
-**[RICKTHON MUSIC](https://t.me/RICKTHOM)**
-**[𝘀𝗼𝘂𝗿𝗰𝗲 rick](https://t.me/rickthon_group)**
+**[RICKTHON MUSIC](https://t.me/RICKTHONM)**
+**[𝘀𝗼𝘂𝗿𝗰𝗲](https://t.me/rickthon_group)**
 __________________________
 
