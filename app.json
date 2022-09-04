@@ -1,8 +1,8 @@
 {
-    "name": "سورس ايــثــون الصوتي ",
+    "name": "سورس ريك ثون ميوزك ",
     "description": "تسمح لك بتشغيل الموسيقي والفيديو في ل=الدردشات الصوتيه.",
     "keywords": ["ELLIOT", "ELLIOT-MUSIC", "موسيقي", "محادثات صوتيه", "تلجرام", "يوكي", "يوكي ميوزك", "موسيقي خاصه"],
-    "repository": "https://github.com/byffyyffu/te",
+    "repository": "https://github.com/rick1128/te",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
